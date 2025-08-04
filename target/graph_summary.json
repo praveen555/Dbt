@@ -1,1 +1,0 @@
-{"_invocation_id": "6830aec9-02d2-465f-9641-5f3e9319893e", "linked": {"0": {"name": "source.sales_ops_v1.dbt_wh.sales", "type": "source", "succ": [1]}, "1": {"name": "model.sales_ops_v1.staging_sql", "type": "model"}}}
